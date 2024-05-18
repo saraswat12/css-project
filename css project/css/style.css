@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.top-container{
+    position: relative;
+    background-color: #CDE8E5;
+    padding-top: 100px;
+    height: 500px;
+}
+h1{
+    color: #66BFBF;
+    margin-top: 0;
+    font-size: 2rem;
+   
+}
+p{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: brown;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 150px;
+    bottom: 100px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 150px;
+    top: 0;
+}
+.mountain{
+    margin-top: 70px;
+}
+
+.skills{
+        position: relative;
+        background-color: #EEF7FF;
+       margin-top: 0;
+        height: fit-content;
+        
+}
+.skills h3{
+    margin:0;
+}
+
+.developer{
+    position: absolute;
+    width: 200px;
+    top:100px;
+    left: 250px;
+}
+
+.content{
+    display: inline-block;
+    bottom: 150px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.project{
+    background-color: #7AB2B2;
+    height: 350px;
+    margin-top: 20px;
+    position: relative;
+    align-items: center;
+}
+
+.project h1{
+    color: #524C42;
+    margin-top: 30px;
+    position: absolute;
+    right: 700px;
+    
+}
+.project img{
+    position: absolute;
+    height: 200px;
+    right: 250px;
+    bottom: 30px;
+
+}
+
+.project p{
+    color: #EEF7FF;
+    position: absolute;
+    left: 100px;
+    width: 50%;
+    bottom: 50px;
+}
+.contect-me{
+    background-color: #4D869C;
+    /* position: absolute; */
+    
+    padding: 2em;
+    
+}
+
+.contect-me img{
+    height: 30px;
+    /* position: absolute; */
+}
+
